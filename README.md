@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Python Project
 
 This is a simple Python project created to learn Git and GitHub.
@@ -12,3 +13,6 @@ This is a simple Python project created to learn Git and GitHub.
 ## Purpose
 
 This project demonstrates basic Git commands and GitHub workflow.
+=======
+# git-python-project1
+>>>>>>> 51e4bed5e1195987a381c3b5ac65e96053211d77
